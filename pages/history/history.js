@@ -12,7 +12,7 @@ Page({
   //事件处理函数
   bindViewTap: function(e) {
     wx.navigateTo({
-      url: '../detail/detail?id=' + e.target.dataset.id
+      url: ''
     })
   },
   onLoad: function () {
