@@ -1,5 +1,5 @@
 ##微信小程序开源小项目:)
-Demo项目  MIT协议 最终解释权归@![Creditx氪信](www.creditx.com)所有
+Demo项目  MIT协议 最终解释权归@[Creditx氪信](www.creditx.com)所有
 
 ##由于只做了多半天时间，里面很多内容很粗糙，但是后期会逐渐完善。
 ##希望各位同行多提提意见。
