@@ -1,0 +1,22 @@
+.clife{
+    width: 100%;
+    height: 100%;
+    background-color: #F1BA30;
+}
+.risk_score{
+    width: 80%;
+    height: 20rem;
+    margin-left: 3rem;
+}
+.xinyong{
+    margin-left: 3.5rem;
+     color:white;
+    font-size:20;
+    font-family:微软雅黑;
+}
+.shenghuo{
+    margin-left:5rem;
+    color:white;
+    font-size:20;
+    font-family:微软雅黑;
+}

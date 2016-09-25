@@ -1,0 +1,45 @@
+{
+  "pages":[
+    "pages/clife",
+    "pages/history/history",
+    "pages/apply"
+    
+  ],
+  "window":{    
+ 	"navigationBarBackgroundColor":"#F1BA30",
+     "navigationBarTextStyle":"white",
+    "navigationBarTitleText": "氪信信用",
+    "statusBarTextStyle":"white"
+  },
+  "tabBar":{
+    "color":"#white",
+    "selectedColor":"#F1BA30",
+    "borderStyle":"white",
+    "backgroundColor":"#ffffff",
+    "list":[{
+      "pagePath":"pages/clife",
+      "text":"氪信",
+      "iconPath":"img/main.png",
+      "selectedIconPath":"img/main_selected.png"
+    },
+    {
+      "pagePath":"pages/apply",
+      "text":"申请",
+      "iconPath":"img/main.png",
+      "selectedIconPath":"img/main_selected.png"
+    },
+    {
+      "pagePath":"pages/history/history",
+      "text":"账单",
+      "iconPath":"img/main.png",
+      "selectedIconPath":"img/main_selected.png"
+    },
+    {
+      "pagePath":"scale",
+      "text":"我",
+      "iconPath":"img/main.png",
+      "selectedIconPath":"img/main_selected.png"
+    }]
+
+  }
+}
