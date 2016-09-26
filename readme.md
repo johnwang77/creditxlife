@@ -1,8 +1,13 @@
 ##微信小程序开源小项目:)
-Demo项目  MIT协议 最终解释权归@[Creditx氪信](www.creditx.com)所有
+Demo项目  MIT协议 
 
-##由于只做了多半天时间，里面很多内容很粗糙，但是后期会逐渐完善。
-##希望各位同行多提提意见。
-##因为后端有氪信人工智能支撑，我还是很希望能够变成一个真正能上线的产品，项目前端会一直开源。
+由于这个版本开发，后期会逐渐完善。
+希望各位同行多提提意见。
+项目前端会一直开源。
 
 欢迎加我微信号: LIR_Ds 
+
+或者在下面的群里面找我：
+![](https://github.com/HioryLiu/weapp-demo/blob/master/qrcode.png)
+
+@[Creditx氪信](http://www.creditx.com)
