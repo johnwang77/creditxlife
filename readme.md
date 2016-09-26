@@ -7,4 +7,7 @@ Demo项目  MIT协议
 
 欢迎加我微信号: LIR_Ds 
 
+或者在下面的群里面找我：
+![](https://github.com/HioryLiu/weapp-demo/blob/master/qrcode.png)
+
 @[Creditx氪信](http://www.creditx.com)
